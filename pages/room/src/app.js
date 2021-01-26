@@ -17,10 +17,13 @@ const onload = () => {
   //recorderBtn.addEventListener('click', recordClick(recorderBtn))
 
   const view = new View()
-  view.renderVideo({ userId: 'test01', url: 'https://media.giphy.com/media/1pZ2kwvYvNMcX19x5z/giphy.mp4' })
-  view.renderVideo({ userId: 'test01', isCurrentId: true, url: 'https://media.giphy.com/media/1pZ2kwvYvNMcX19x5z/giphy.mp4' })
-  view.renderVideo({ userId: 'test02', url: 'https://media.giphy.com/media/1pZ2kwvYvNMcX19x5z/giphy.mp4' })
-
+  const media = new Media()
+  const deps = {
+    view,
+    media,
+    room
+  }
+  Business.initialize(deps)
 
 }
 
