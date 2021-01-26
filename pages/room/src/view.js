@@ -1,12 +1,13 @@
 class View {
-    consttructor() {
+    constructor() {
 
     }
 
     createVideoElement({ muted = true, src, srcObject }) {
         const video = document.createElement('video')
         video.muted = muted
-        video.src = srcvideo.srcObject = srcObject
+        video.src = src
+        video.srcObject = srcObject
 
         if(src) {
             video.controls = true
