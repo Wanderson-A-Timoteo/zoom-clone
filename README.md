@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunicação de vídeo e áudio. Vídeo sob demanda, conexões peer-to-peer com WebRTC, poderá extrair os binários dos vídeos gerados e salvar localmente. Aplicação 100% web, utilizando API do Browser a getUserMedia além de criar sala de conferência para multiusuários.
+Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunicação de vídeo e áudio. Vídeo sob demanda, conexões peer-to-peer com WebRTC, poderá extrair os binários dos vídeos gerados e salvar localmente. Aplicação 100% web, utilizando API do Browser a getUserMedia, além de criar sala de videoconferência para multiusuários.
 
 <br>
 <br>
@@ -12,7 +12,7 @@ Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunica�
 ## Home Page
 
 - Acesse o [home](./pages/home/index.html) para acessar a home page
-- Acesse o [room](./pages/room/index.html) uma room específica
+- Acesse o [room](./page/room/index.html) uma room específica
 
 ![home page](./prints/home.png)
 
@@ -39,7 +39,7 @@ Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunica�
 <br>
 <br>
 
-## Créditos
+## 💫 Créditos
 
 - Layout da home foi baseada no codepen do [Nelson Adonis Hernandez
 ](https://codepen.io/nelsonher019/pen/eYZBqOm)
@@ -87,7 +87,7 @@ Ao digitar a instrução acima nas 3 pastas, automaticamente ele irá baixar tod
 
 - `node_modules` - que contêm os packages do npm que precisará para o projeto.
 
-### 💨 Executando a Aplicação
+#### 💨 Executando a Aplicação
 
 Bom, agora **(dentro da pasta `zoom-clone` do projeto clonado)** abra um terminal para o projeto ser executado e digite:
 
