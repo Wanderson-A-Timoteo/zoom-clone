@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunicação de vídeo e áudio. Video sob demanda, conecções peer-to-peer com WebRTC, poderá extrair os binarios dos vídeos gerados e salvar localmente. Aplicação 100% web, utilizando API do Browser a getUserMedia além de criar salas de conferencias para multi-usuários.
+Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunicação de vídeo e áudio. Vídeo sob demanda, conexões peer-to-peer com WebRTC, poderá extrair os binários dos vídeos gerados e salvar localmente. Aplicação 100% web, utilizando API do Browser a getUserMedia além de criar sala de conferência para multiusuários.
 
 <br>
 <br>
