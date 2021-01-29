@@ -96,11 +96,7 @@ npm start
 ```
 Aparecerá em seu terminal informações como esta imagem abaixo, copie e cole a url que aparecer em seu terminal, em seu browser, de preferência o Chrome com a cache desabilitada.
 
-<br>
-
-![home page](./prints/terminal.png)
-
-<br>
+![Terminal](./prints/terminal.png)
 
 **(dentro da pasta `server` do projeto zoom clone)** abra um terminal para o projeto ser executado e digite:
 
@@ -141,7 +137,7 @@ Feito com ♥ by
 
 ## 👍 Agradecimentos:
 
-![home page](./prints/semana-js-expert.png)
+![Semana JavaScript Expert 2.0](./prints/semana-js-expert.png)
 
 - Projeto desenvolvido durante a  [Semana JavaScript Expert 2.0](https://cursos.erickwendel.com.br/)
 
