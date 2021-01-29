@@ -94,7 +94,8 @@ Bom, agora **(dentro da pasta `zoom-clone` do projeto clonado)** abra um termina
 ```
 npm start
 ```
-Aparecerá em seu terminal informações como esta imagem abaixo, copie e cole a url que aparecer em seu terminal, em seu browser, de preferencia o Chrome com a cache desabilitada.
+Aparecerá em seu terminal informações como esta imagem abaixo, copie e cole a url que aparecer em seu terminal, em seu browser, de preferência o Chrome com a cache desabilitada.
+
 <p align="center">
     <img src="prints/terminal.png" alt="Room" title="Room"  />
 </p>
