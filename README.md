@@ -12,7 +12,7 @@ Zoom Clone, este aplicativo tem um bate-papo de mensagens, recursos de comunica�
 ## Home Page
 
 - Acesse o [home](./pages/home/index.html) para acessar a home page
-- Acesse o [room](./page/room/index.html) uma room específica
+- Acesse o [room](./pages/room/index.html) uma room específica
 
 ![home page](./prints/home.png)
 
