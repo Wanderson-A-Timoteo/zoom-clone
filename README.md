@@ -100,8 +100,6 @@ Aparecerá em seu terminal informações como esta imagem abaixo, copie e cole a
     <img src="prints/terminal.png" alt="Terminal" title="Terminal"  />
 </p>
 
-![Terminal](./prints/terminal.png)
-
 **(dentro da pasta `server` do projeto zoom clone)** abra um terminal para o projeto ser executado e digite:
 
 ```
@@ -144,8 +142,6 @@ Feito com ♥ by
 <p align="center">
     <img src="prints/semana-js-expert.png" alt="Semana JavaScript Expert 2.0" title="Semana JavaScript Expert 2.0"  />
 </p>
-
-![Semana JavaScript Expert 2.0](./prints/semana-js-expert.png)
 
 - Projeto desenvolvido durante a  [Semana JavaScript Expert 2.0](https://cursos.erickwendel.com.br/)
 
